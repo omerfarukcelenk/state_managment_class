@@ -99,7 +99,7 @@ class _OnBoardViewState extends State<OnBoardView> {
         ),
       ],
       leading: _firstPage
-          ? null
+          ? null 
           : IconButton(
               onPressed: () {},
               icon: const Icon(
